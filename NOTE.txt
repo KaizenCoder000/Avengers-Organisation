@@ -1,0 +1,2 @@
+unsplash api link - https://source.unsplash.com/1600x900/?avengers
+include(d-flex justify-content-center align-items-center) in class to vertically and horizontally center the div contents
